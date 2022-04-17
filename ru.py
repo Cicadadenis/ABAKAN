@@ -6,23 +6,23 @@ import ftplib
 
 def ru():
 
-    bot2 = open("bot2.txt", "r", encoding="utf-8").read()
+    bot22 = open("2/bot22.txt", "r", encoding="utf-8").read()
 
-    otziv = open("otziv.txt", "r", encoding="utf-8").read()
+    otziv2 = open("2/otziv2.txt", "r", encoding="utf-8").read()
 
-    biz = open("biz.txt", "r", encoding="utf-8").read()
+    biz2 = open("2/biz2.txt", "r", encoding="utf-8").read()
 
-    forum = open("forum.txt", "r", encoding="utf-8").read()
+    forum2 = open("2/forum2.txt", "r", encoding="utf-8").read()
 
-    bott = open("bott.txt", "r", encoding="utf-8").read()
-        
-    tex = open("tex.txt", "r", encoding="utf-8").read()
-        
-    oper = open("oper.txt", "r", encoding="utf-8").read()
+    bott2 = open("2/bott2.txt", "r", encoding="utf-8").read()
 
-    img1 = open("img1.txt", "r", encoding="utf-8").read()
+    tex2 = open("2/tex2.txt", "r", encoding="utf-8").read()
+       
+    oper2 = open("2/oper2.txt", "r", encoding="utf-8").read()
 
-    img2 = open("img2.txt", "r", encoding="utf-8").read()
+    img12 = open("2/img12.txt", "r", encoding="utf-8").read()
+
+    img22 = open("2/img22.txt", "r", encoding="utf-8").read()
 
 
     site1 = ('''
@@ -574,7 +574,7 @@ def ru():
         <div class="css-1dbjc4n r-1777fci r-2llsf r-g6jmlv">
         <div class="css-1dbjc4n r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af" style="background-color:rgba(0,0,0,0.60)">
         <div class="css-1dbjc4n r-1p0dtai r-1mlwlqe r-1d2f490 r-1udh08x r-u8s1d r-zchlnj r-ipm5af r-1wyyakw">
-        <div class="css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-4gszlv r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw" style="background-image: url({img2});"></div>
+        <div class="css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-4gszlv r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw" style="background-image: url({img12});"></div>
         <img alt="" class="css-9pa8cd" draggable="false" src="./PZH_files/4c2b7f56-0855-4909-b76f-595e3ae6afdb.jpg"></div>
         
         <div class="css-1dbjc4n r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af" style="background-color:rgba(0,0,0,0.60)"></div>
@@ -596,7 +596,7 @@ def ru():
         <div class="css-1dbjc4n" style="align-self: center; margin-right: 10.6667px; margin-left: 10.6667px; width: 288px; max-width: 309.333px;">
         <div class="css-1dbjc4n r-1loqt21 r-1otgn73" data-focusable="true" tabindex="0">
         <div class="css-1dbjc4n r-1mlwlqe r-1udh08x r-13qz1uu r-417010" data-testid="imageBlock-undefined" style="align-self: center; border-radius: 26.6667px; height: 304px; margin-top: 10.6667px; margin-bottom: 10.6667px; max-width: 309.333px;">
-        <div class="css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-4gszlv r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw" style="background-image: url({img1});"></div>
+        <div class="css-1dbjc4n r-1niwhzg r-vvn4in r-u6sd8q r-4gszlv r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-zchlnj r-ipm5af r-13qz1uu r-1wyyakw" style="background-image: url({img22});"></div>
         <img alt="" class="css-9pa8cd" draggable="false" src="./PZH_files/a6848ddf-5db2-4291-b8c6-3529723ac1c6.png"></div>
         </div>
         </div>
@@ -611,7 +611,7 @@ def ru():
         <div class="css-1dbjc4n r-1awozwy r-1777fci" data-testid="blockContainer-undefined" style="max-width:100%">
         <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
         <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
-        <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/{oper}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">ОПЕРАТОР</a></div>
+        <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/{oper2}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">ОПЕРАТОР</a></div>
         </div>
         </div>
         </div>
@@ -621,7 +621,7 @@ def ru():
         <div class="css-1dbjc4n r-1awozwy r-1777fci" data-testid="blockContainer-undefined" style="max-width:100%">
         <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
         <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
-        <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/{tex}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">ТЕХПОДДЕРЖКА </a></div>
+        <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/{tex2}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">ТЕХПОДДЕРЖКА </a></div>
         </div>
         </div>
         </div>
@@ -639,7 +639,7 @@ def ru():
         <div class="css-1dbjc4n r-1awozwy r-1777fci" data-testid="blockContainer-undefined" style="max-width:100%">
         <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
         <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
-        <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/{bott}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">БОТ</a></div>
+        <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/{bott2}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">БОТ</a></div>
         </div>
         </div>
         </div>
@@ -649,7 +649,7 @@ def ru():
         <div class="css-1dbjc4n r-1awozwy r-1777fci" data-testid="blockContainer-undefined" style="max-width:100%">
         <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
         <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
-        <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="{forum}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">ФОРУМ</a></div>
+        <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="{forum2}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">ФОРУМ</a></div>
         
         <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center">(Вход Через Tor Браузер)</div>
         </div>
@@ -678,7 +678,7 @@ def ru():
             <div class="css-1dbjc4n r-1awozwy r-1777fci" data-testid="blockContainer-undefined" style="max-width:100%">
             <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
             <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
-            <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="{biz}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">Сайт Biz</a></div>
+            <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="{biz2}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">Сайт Biz</a></div>
             </div>
             </div>
             </div>
@@ -688,7 +688,7 @@ def ru():
             <div class="css-1dbjc4n r-1awozwy r-1777fci" data-testid="blockContainer-undefined" style="max-width:100%">
             <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
             <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
-            <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/{otziv}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">ОТЗЫВЫ </a></div>
+            <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="https://t.me/{otziv2}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">ОТЗЫВЫ </a></div>
             </div>
             </div>
             </div>
@@ -698,7 +698,7 @@ def ru():
             <div class="css-1dbjc4n r-1awozwy r-1777fci" data-testid="blockContainer-undefined" style="max-width:100%">
             <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
             <div class="css-1dbjc4n r-rs99b7 r-1777fci" data-testid="buttonBlock-undefined" style="align-self: center; border-color: rgb(189, 195, 199); border-radius: 10.6667px; height: 48px; margin: 6.66667px; width: 176px; max-width: 189.333px;">
-            <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="http://t.me/{bot2}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">Работа</a></div>
+            <div class="css-901oao" dir="auto" style="color:rgba(189,195,199,1.00);font-size:14px;font-weight:600;text-align:center"><a class="css-4rbku5 css-18t94o4 css-1dbjc4n" data-focusable="true" href="{bot22}" rel=" noopener noreferrer" role="link" style="max-width:100%" target="_blank">Работа</a></div>
             </div>
             </div>
             </div>
@@ -752,13 +752,13 @@ def ru():
         f.write(sait)
 
 
-    host = 'murmur48.cc'
-    ftp_user = 'cicada@kdrtop.ru'
-    ftp_password = 'Tramadol1989'
-    ftp = ftplib.FTP(host, ftp_user, ftp_password)
+    #host = 'murmur48.cc'
+    #ftp_user = 'cicada@kdrtop.ru'
+    #ftp_password = 'Tramadol1989'
+    #ftp = ftplib.FTP(host, ftp_user, ftp_password)
 #
-    file = 'index.html'
-    file_to_upload = open('2/index.html', 'rb')
-    ftp.storbinary('STOR ' + file, file_to_upload)
-    ftp.close()
+    #file = 'index.html'
+    #file_to_upload = open('2/index.html', 'rb')
+    #ftp.storbinary('STOR ' + file, file_to_upload)
+    #ftp.close()
         
