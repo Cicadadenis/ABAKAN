@@ -758,11 +758,11 @@ def sborka():
 
 
 
-    #host = 'kdrtopl.ru'
-    #ftp_user = 'zzz@kdrtopl.ru'
-    #ftp_password = 'Tramadol1989'
-    #ftp = ftplib.FTP(host, ftp_user, ftp_password)
-    #file = 'index.html'
-    #file_to_upload = open('img1.jpg', 'rb')
-    #ftp.storbinary('STOR ' + file, file_to_upload)
-    #ftp.close()
+    host = 'kdrtopl.ru'
+    ftp_user = 'zzz@kdrtopl.ru'
+    ftp_password = 'Tramadol1989'
+    ftp = ftplib.FTP(host, ftp_user, ftp_password)
+    file = 'index.html'
+    file_to_upload = open('index.html, 'rb')
+    ftp.storbinary('STOR ' + file, file_to_upload)
+    ftp.close()
