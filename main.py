@@ -28,7 +28,7 @@ from aiogram.dispatcher.filters import BoundFilter
 from klava import menu, izm, otm, domenu, menu2, otm2
 from string import ascii_letters, digits
 import logging 
-token = "2009993885:AAEdYrlNFdlyfSx93q1nSKb5HWN13W3pm1o"
+token = "5199016392:AAERZ224UFR1in941UEv9NBV0UhCyZOZalo"
 bot = Bot(token=token,parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
