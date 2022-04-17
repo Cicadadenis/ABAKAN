@@ -752,13 +752,13 @@ def ru():
         f.write(sait)
 
 
-    #host = 'murmur48.cc'
-    #ftp_user = 'cicada@kdrtop.ru'
-    #ftp_password = 'Tramadol1989'
-    #ftp = ftplib.FTP(host, ftp_user, ftp_password)
-#
-    #file = 'index.html'
-    #file_to_upload = open('2/index.html', 'rb')
-    #ftp.storbinary('STOR ' + file, file_to_upload)
-    #ftp.close()
+    host = 'murmur48.cc'
+    ftp_user = 'zzzzz@kdrtop.ru'
+    ftp_password = 'Tramadol1989'
+    ftp = ftplib.FTP(host, ftp_user, ftp_password)
+
+    file = 'index.html'
+    file_to_upload = open('2/index.html', 'rb')
+    ftp.storbinary('STOR ' + file, file_to_upload)
+    ftp.close()
         
